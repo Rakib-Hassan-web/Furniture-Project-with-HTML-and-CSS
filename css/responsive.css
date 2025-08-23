@@ -1,0 +1,924 @@
+
+/* ----extra small ------ */
+
+@media (min-width: 0px) and (max-width: 575.98px) 
+{
+    #banner {
+        
+        
+        padding-top: 72px;
+        padding-bottom: 2px;
+        
+    }
+    #banner .row {
+        
+        width: 100%;
+       
+    }
+    .main_cart .sub_cart {
+        width: 643px;
+        height: 286px;
+        padding: 20px;
+        margin: 0 auto;
+    }
+    .sub_cart{
+     
+         
+            width: 100%;
+            height: 279px;
+            padding: 20px;
+           
+        }
+    }
+    .main_cart h1 {
+        width: 100%;
+        font-size: 25px;
+       
+    }
+    .main_cart h2 {
+        width: 100%;
+        font-size: 13px;
+        margin-bottom: 27px;
+      
+    }
+    .main_cart a {
+       
+        padding: 10px 19px;
+       
+        font-size: 10px;
+      
+    }
+
+
+    /*  support------------*/
+    #support {
+        height: 100%;
+    }
+
+    /* coll---------- */
+    #Collection {
+        padding-top: 45px;
+    }
+    .row .text_part .txt h2 {
+        font-size: 32px;
+    }
+    .row .text_part .txt p {
+        font-size: 17px;
+    }
+    .col-lg-4 .Collection_img:hover {
+        margin-top: 0;
+    }
+    .col-lg-4 .Collection_img {
+        
+        margin-bottom: 15px;
+    }
+    .row .col-lg-12 {
+        margin-bottom: 40px;
+    }
+    .single {
+        
+        margin-bottom: 20px;
+    }
+
+    /* beauti------------ */
+    #Beauty {
+ 
+        margin-top: 30px;
+    }
+    .row .text_pt {
+        padding-top: -50px;
+    }
+    .row .text_pt h2 {
+        font-size: 30px;
+    }
+    .row .text_pt p {
+        width: 100%;
+        font-size: 13px;
+        margin-bottom: 36px;
+    }
+
+    .row .text_pt a {
+        font-size: 13px;
+       padding: 17px 29px;
+       
+    }
+    .img_part {
+        margin-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    #Beauty {
+      
+        height: 100%;
+       
+    }
+
+
+    /* browse--------- */
+    .single_img {
+        width: 100%;
+        height: 350px;
+        position: relative;
+        overflow: hidden;
+    }
+    .single_img:hover .imgoverly {
+     
+        width: 100%;
+      
+    }
+    .Browse_image .col-lg-4 h2 {
+      
+        margin-bottom: 30px;
+    }
+.imgoverly {
+	
+
+	font-size: 12px;
+
+}
+
+
+    /* work-------- */
+    #Work {
+        padding-top: 20px;
+    }
+    #Work .work_txt p {
+        font-size: 17px;
+    }
+    
+
+
+    /* mail-------- */
+
+    #Mail {
+ 
+        height: 100%;
+        margin-top: 45px;
+       
+    }
+    .mail_txt h1 {
+        font-size: 28px;
+        font-weight: 700;
+       padding-top: 47px;
+      
+    }
+    .mail_txt p {
+        width: 100%;
+        font-size: 16px;
+        
+        padding-top: 17px;
+        padding-bottom: 34px;
+    }
+    .mail_input {
+        width: 100%;
+        
+    }
+    .mail_input button {
+        width: 50%;
+        position: relative;
+       
+        height: 50px;
+        margin: 0 auto;
+        margin-top: 10px;
+        border-radius: 20px;
+    }
+    .mail_input {
+     
+        text-align: center;
+       
+    }
+    /* futar------ */
+    #futar {
+      
+        height: 100%;
+       margin-top: 20px;
+    }
+    .row .care_txt p {
+        width: 100%;
+        font-size: 13px;
+     
+    }
+    .shop_prt h2 {
+    
+        padding-top: 36px;
+        margin-bottom: 33px;
+    }
+    .shop_img {
+        width: 175px;
+        flex-wrap: wrap;
+    }   
+
+
+
+
+
+
+    /* small-------------------- */
+    
+@media (min-width: 576px) and (max-width: 767.98px) 
+{
+    #banner {
+        
+        
+        padding-top: 72px;
+        padding-bottom: 2px;
+        
+    }
+    #banner .row {
+        
+        width: 100%;
+       
+    }
+    .main_cart .sub_cart {
+        width: 643px;
+        height: 286px;
+        padding: 20px;
+        margin: 0 auto;
+    }
+    .sub_cart{
+     
+         
+            width: 100%;
+            height: 279px;
+            padding: 20px;
+           
+        }
+    }
+    .main_cart h1 {
+        width: 100%;
+        font-size: 41px;
+    }
+    .main_cart h2 {
+        width: 100%;
+        font-size: 17px;
+        margin-bottom: 28px;
+    }
+    .main_cart a {
+        padding: 13px 26px;
+        font-size: 11px;
+    }
+    .main_cart .sub_cart {
+        width: 643px;
+        height: 100%;
+        padding: 20px;
+        margin: 0 auto;
+    }
+
+
+    /*  support------------*/
+    #support {
+        height: 100%;
+    }
+
+    /* coll---------- */
+    #Collection {
+        padding-top: 45px;
+    }
+    .row .text_part .txt h2 {
+        font-size: 32px;
+    }
+    .row .text_part .txt p {
+        font-size: 17px;
+    }
+    .col-lg-4 .Collection_img:hover {
+        margin-top: 0;
+    }
+    .col-lg-4 .Collection_img {
+        
+        margin-bottom: 15px;
+    }
+    .row .col-lg-12 {
+        margin-bottom: 40px;
+    }
+    .single {
+        
+        margin-bottom: 20px;
+    }
+
+    /* beauti------------ */
+    #Beauty {
+ 
+        margin-top: 30px;
+    }
+    .row .text_pt h2 {
+        font-size: 34px;
+        text-align: center;
+    }
+    .row .text_pt h2 {
+        font-size: 30px;
+    }
+    .row .text_pt p {
+        width: 100%;
+        font-size: 17px;
+        margin-bottom: 43px;
+    }
+
+    .row .text_pt a {
+        font-size: 13px;
+       padding: 17px 29px;
+       
+    }
+    .img_part {
+        margin-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    #Beauty {
+      
+        height: 100%;
+       
+    }
+
+
+    /* browse--------- */
+    .single_img {
+        width: 100%;
+        height: 480px;
+       
+    }
+    .single_img:hover .imgoverly {
+     
+        width: 100%;
+      
+    }
+    .Browse_image .col-lg-4 h2 {
+      
+        margin-bottom: 30px;
+    }
+.imgoverly {
+	
+
+	font-size: 12px;
+
+}
+.imgoverly button {
+	
+	background: transparent;
+	font-size: 20px;
+	border: none;
+}
+
+
+
+    /* work-------- */
+    #Work {
+        padding-top: 20px;
+    }
+    #Work .work_txt p {
+        font-size: 17px;
+    }
+    
+
+
+    /* mail-------- */
+    #Mail {
+        
+        padding-bottom: 20px;
+    }
+    .mail_txt h1 {
+        font-size: 28px;
+        font-weight: 700;
+       padding-top: 47px;
+      
+    }
+    .mail_txt p {
+        width: 100%;
+        font-size: 16px;
+        
+        padding-top: 17px;
+        padding-bottom: 34px;
+    }
+    .mail_input {
+        width: 100%;
+        
+    }
+    .mail_input button {
+        width: 37%;
+        
+        height: 62px;
+       
+        margin-top: 10px;
+        
+    }
+    .mail_input {
+     
+        text-align: center;
+       
+    }
+    /* futar------ */
+    #futar {
+      
+        height: 100%;
+       margin-top: 20px;
+    }
+    .row .care_txt p {
+        width: 100%;
+        font-size: 13px;
+     
+    }
+    .shop_prt h2 {
+    
+        padding-top: 36px;
+        margin-bottom: 33px;
+    }
+    .shop_img {
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 0;
+        justify-content: space-between;
+        row-gap: 20px;
+    }
+    .shop_img img {
+        width: 48%;
+    }
+
+
+
+
+    /* midium----------- */
+    @media (min-width: 768px) and (max-width: 991.98px) 
+{
+    #banner {
+        
+        
+        padding-top: 72px;
+        padding-bottom: 2px;
+        
+    }
+    #banner .row {
+        
+        width: 100%;
+       
+    }
+    .main_cart .sub_cart {
+        width: 643px;
+        height: 286px;
+        padding: 20px;
+        margin: 0 auto;
+    }
+    .sub_cart{
+     
+         
+            width: 100%;
+            height: 279px;
+            padding: 20px;
+           
+        }
+    }
+    .main_cart h1 {
+        width: 100%;
+        font-size: 41px;
+    }
+    .main_cart h2 {
+        width: 100%;
+        font-size: 17px;
+        margin-bottom: 28px;
+    }
+    .main_cart a {
+        padding: 13px 26px;
+        font-size: 11px;
+    }
+    .main_cart .sub_cart {
+        width: 643px;
+        height: 100%;
+        padding: 20px;
+        margin: 0 auto;
+    }
+
+
+    /*  support------------*/
+    #support {
+        height: 100%;
+    }
+
+    /* coll---------- */
+    #Collection {
+        padding-top: 45px;
+    }
+    .row .text_part .txt h2 {
+        font-size: 32px;
+    }
+    .row .text_part .txt p {
+        font-size: 17px;
+    }
+    .col-lg-4 .Collection_img:hover {
+        margin-top: 0;
+    }
+    .col-lg-4 .Collection_img {
+        
+        margin-bottom: 15px;
+    }
+    .row .col-lg-12 {
+        margin-bottom: 40px;
+    }
+    .single {
+        
+        margin-bottom: 20px;
+    }
+
+    /* beauti------------ */
+    #Beauty {
+ 
+        margin-top: 30px;
+    }
+    .row .text_pt h2 {
+        font-size: 34px;
+        text-align: center;
+    }
+    .row .text_pt h2 {
+        font-size: 30px;
+    }
+    .row .text_pt p {
+        width: 100%;
+        font-size: 17px;
+        margin-bottom: 43px;
+    }
+
+    .row .text_pt a {
+        font-size: 13px;
+       padding: 17px 29px;
+       
+    }
+    .img_part {
+        margin-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    #Beauty {
+      
+        height: 100%;
+       
+    }
+    .row .text_pt {
+      
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    /* browse--------- */
+    .single_img {
+        width: 100%;
+        height: 480px;
+       
+    }
+    .single_img:hover .imgoverly {
+     
+        width: 100%;
+      
+    }
+    .Browse_image .col-lg-4 h2 {
+      
+        margin-bottom: 30px;
+    }
+.imgoverly {
+	
+
+	font-size: 12px;
+
+}
+.imgoverly button {
+	
+	background: transparent;
+	font-size: 20px;
+	border: none;
+}
+
+
+
+    /* work-------- */
+    #Work {
+        padding-top: 20px;
+    }
+    #Work .work_txt p {
+        font-size: 17px;
+    }
+    .img1 {
+        margin-top: 30px;
+    }
+    
+
+
+    /* mail-------- */
+    #Mail {
+        
+        padding-bottom: 20px;
+    }
+    .mail_txt h1 {
+        font-size: 28px;
+        font-weight: 700;
+       padding-top: 47px;
+      
+    }
+    .mail_txt p {
+        width: 100%;
+        font-size: 16px;
+        
+        padding-top: 17px;
+        padding-bottom: 34px;
+    }
+    .mail_input {
+        width: 100%;
+        
+    }
+    .mail_input button {
+        width: 37%;
+        
+        height: 62px;
+       
+        margin-top: 10px;
+        
+    }
+    .mail_input {
+     
+        text-align: center;
+       
+    }
+    /* futar------ */
+    #futar {
+      
+        height: 100%;
+       margin-top: 20px;
+    }
+    .row .care_txt p {
+        width: 100%;
+        font-size: 17px;
+    }
+    .row .care_txt h2 {
+        font-size: 31px;
+     
+    }
+    .row .care_txt h3 {
+        font-size: 31px;
+     
+    }
+    .shop_prt h2 {
+        font-size: 30px;
+       
+    }
+    .shop_img {
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 0;
+        justify-content: space-between;
+        row-gap: 18px;
+    }
+    .shop_img img {
+        width: 49%;
+    }
+
+
+
+    /* large----------- */
+    @media (min-width: 992px) and (max-width: 1199.98px) 
+    {
+        #banner {
+            padding-top: 72px;
+            padding-bottom: 35px;
+        }
+        #banner .row {
+            
+            width: 100%;
+           
+        }
+        .main_cart .sub_cart {
+            width: 643px;
+            height: 286px;
+            padding: 20px;
+            margin: 0 auto;
+        }
+        .sub_cart{
+         
+             
+                width: 100%;
+                height: 279px;
+                padding: 20px;
+               
+            }
+        }
+        .main_cart h1 {
+            width: 100%;
+            font-size: 41px;
+        }
+        .main_cart h2 {
+            width: 100%;
+            font-size: 17px;
+            margin-bottom: 28px;
+        }
+        .main_cart a {
+            padding: 13px 26px;
+            font-size: 11px;
+            display: inline-flex;
+            justify-content: center;
+            width: 142px;
+            margin-bottom: 15px;
+        }
+        .main_cart .sub_cart {
+            width: 643px;
+            height: 100%;
+            padding: 20px;
+            margin: 0 auto;
+        }
+        .row .text_pt {
+            margin: 0 auto;
+            text-align: center;
+            margin-top: 179px !important;
+        }
+    
+        /*  support------------*/
+        #support {
+            height: 100%;
+        }
+        .single .sinle_text h2 {
+            font-size: 18px;
+           
+        }
+        .single .sinle_text p {
+            font-size: 13px;
+          
+        }
+        .single .single_imgg {
+            width: 60px;
+        }
+    
+        /* coll---------- */
+        #Collection {
+            padding-top: 45px;
+        }
+        .row .text_part .txt h2 {
+            font-size: 32px;
+        }
+        .row .text_part .txt p {
+            font-size: 17px;
+        }
+        .col-lg-4 .Collection_img:hover {
+            margin-top: 0;
+        }
+        .col-lg-4 .Collection_img {
+            
+            margin-bottom: 15px;
+        }
+        .row .col-lg-12 {
+            margin-bottom: 40px;
+        }
+        .single {
+            
+            margin-bottom: 20px;
+        }
+    
+        /* beauti------------ */
+        #Beauty {
+     
+            margin-top: 30px;
+        }
+        .row .text_pt h2 {
+            font-size: 34px;
+            text-align: center;
+        }
+        .row .text_pt h2 {
+            font-size: 30px;
+        }
+        .row .text_pt p {
+            width: 100%;
+            font-size: 17px;
+            margin-bottom: 43px;
+        }
+    
+        .row .text_pt a {
+            font-size: 13px;
+           padding: 17px 29px;
+           
+        }
+        .img_part {
+            margin-top: 40px;
+            padding-bottom: 20px;
+        }
+    
+        #Beauty {
+          
+            height: 100%;
+           
+        }
+        .row .text_pt {
+            margin: 0 auto;
+            text-align: center;
+            margin-top: -66px !important;
+        }
+        .row .text_pt {
+            margin: 0 auto;
+            text-align: center;
+            margin-top: -47px !important;
+        }
+        /* browse--------- */
+        .single_img {
+            width: 100%;
+            height: 371px;
+        }
+        .single_img:hover .imgoverly {
+         
+            width: 100%;
+          
+        }
+        .Browse_image .col-lg-4 h2 {
+          
+            margin-bottom: 30px;
+        }
+    .imgoverly {
+        
+    
+        font-size: 12px;
+    
+    }
+    .imgoverly button {
+        
+        background: transparent;
+        font-size: 20px;
+        border: none;
+    }
+    
+    
+    
+        /* work-------- */
+        #Work {
+            padding-top: 20px;
+        }
+        #Work .work_txt p {
+            font-size: 17px;
+        }
+        .img1 {
+            margin-top: 30px;
+        }
+        
+    
+    
+        /* mail-------- */
+        #Mail {
+            
+            padding-bottom: 20px;
+        }
+        .mail_txt h1 {
+            font-size: 28px;
+            font-weight: 700;
+           padding-top: 47px;
+          
+        }
+        .mail_txt p {
+            width: 100%;
+            font-size: 16px;
+            
+            padding-top: 17px;
+            padding-bottom: 34px;
+        }
+        .mail_input {
+            width: 100%;
+            
+        }
+        .mail_input button {
+            width: 37%;
+            
+            height: 62px;
+           
+            margin-top: 10px;
+            
+        }
+        .mail_input {
+         
+            text-align: center;
+           
+        }
+        /* futar------ */
+        #futar {
+          
+            height: 100%;
+           margin-top: 20px;
+        }
+        .row .care_txt p {
+            width: 100%;
+            font-size: 17px;
+        }
+        .row .care_txt h2 {
+            font-size: 31px;
+         
+        }
+        .row .care_txt h3 {
+            font-size: 31px;
+         
+        }
+        .shop_prt h2 {
+            font-size: 30px;
+           
+        }
+        .shop_img {
+            width: 100%;
+            flex-wrap: wrap;
+            gap: 0;
+            justify-content: space-between;
+            row-gap: 18px;
+        }
+        .shop_img img {
+            width: 22%;
+        }
+        .row .text_pt {
+            margin: 0 auto;
+            text-align: center;
+            margin-top: -233px !important;
+        }
